@@ -1,0 +1,10 @@
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\TARS.DataModel.dll.config
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\TARS.DataModel.dll
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\TARS.DataModel.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\EntityFramework.dll
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\EntityFramework.xml
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\obj\Debug\TARS.DataModel.dll
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\obj\Debug\TARS.DataModel.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.DataModel\obj\Debug\TARS.DataModel.csprojResolveAssemblyReference.cache

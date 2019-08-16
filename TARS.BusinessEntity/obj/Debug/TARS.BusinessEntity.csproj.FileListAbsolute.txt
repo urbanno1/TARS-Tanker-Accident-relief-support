@@ -1,0 +1,5 @@
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessEntity\bin\Debug\NTI.BusinessEntity.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessEntity\bin\Debug\NTI.BusinessEntity.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessEntity\obj\Debug\NTI.BusinessEntity.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessEntity\obj\Debug\NTI.BusinessEntity.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessEntity\obj\Debug\TARS.BusinessEntity.csprojResolveAssemblyReference.cache

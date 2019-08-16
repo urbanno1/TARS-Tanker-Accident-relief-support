@@ -1,0 +1,17 @@
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\NTI.BusinessService.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\NTI.BusinessService.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\AutoMapper.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\NTI.BusinessEntity.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\System.ValueTuple.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\TARS.DataModel.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\EntityFramework.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\NTI.BusinessEntity.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\TARS.DataModel.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\TARS.DataModel.dll.config
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\AutoMapper.pdb
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\AutoMapper.xml
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\System.ValueTuple.xml
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\bin\Debug\EntityFramework.xml
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\obj\Debug\TARS.BusinessService.csprojResolveAssemblyReference.cache
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\obj\Debug\NTI.BusinessService.dll
+C:\MVC\TARS\TARS.WebApi\TARS.BusinessService\obj\Debug\NTI.BusinessService.pdb
